@@ -1,0 +1,63 @@
+IP Information for 109.122.252.56
+ Quick Stats
+IP Location	Iran, Islamic Republic Of Iran, Islamic Republic Of Mashhad Ferdowsi University Of Mashhad
+ASN	Iran, Islamic Republic Of AS61248 IR-FUM, IR (registered Dec 21, 2012)
+Resolve Host	oldnews.um.ac.ir
+
+IP Address	109.122.252.56
+% Abuse contact for '109.122.252.0 - 109.122.253.255' is ''
+
+ASN IP Range: 109.122.252.0/22
+Scanning 109.122.252.56 [1000 ports]
+
+Discovered open port 80/tcp on 109.122.252.56
+
+Discovered open port 443/tcp on 109.122.252.56
+
+PORT    STATE  SERVICE  VERSION
+
+80/tcp  open   http     Apache httpd
+
+
+|_http-server-header: Apache
+
+113/tcp closed ident
+
+443/tcp open   ssl/http Apache httpd
+
+IP Information for 109.122.252.65
+Nmap scan report for 109.122.252.65
+
+Host is up (0.041s latency).
+
+Not shown: 997 filtered tcp ports (no-response)
+
+PORT    STATE  SERVICE  VERSION
+
+80/tcp  open   http     Apache httpd
+
+113/tcp closed ident
+
+443/tcp open   ssl/http Apache httpd
+
+IP Information for 109.122.252.61 
+
+80/tcp  open   http     Apache httpd
+113/tcp closed ident
+443/tcp open   ssl/http Apache httpd
+
+IP Address	109.122.252.74
+Scanning 109.122.252.74 [1000 ports]
+
+Discovered open port 443/tcp on 109.122.252.74
+
+Discovered open port 80/tcp on 109.122.252.74
+
+Discovered open port 8010/tcp on 109.122.252.74
+
+Discovered open port 8008/tcp on 109.122.252.74
+
+ip    109.122.252.83
+Discovered open port 80/tcp on 109.122.252.83
+
+Discovered open port 443/tcp on 109.122.252.83
